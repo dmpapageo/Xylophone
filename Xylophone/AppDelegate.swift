@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Xylophone
 //
-//  Created by Angela Yu on 27/01/2016.
+//  Created by Dimitrios Papageorgiou on 08/28/2017.
 //  Copyright © 2016 London App Brewery. All rights reserved.
 //
 
